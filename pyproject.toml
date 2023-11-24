@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ieos-abstracts"
+version = "0.1.0"
+description = "Project to create Book of Abstracts for IEOS 2023 from submission spreadsheet"
+authors = ["Breandán Anraoi MacGabhann"]
+license = "MIT 3-clause"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.3"
+fpdf = "^1.7.2"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.11.0"
+flake8 = "^6.1.0"
+ipykernel = "^6.27.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
