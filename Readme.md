@@ -7,7 +7,7 @@ If editing Google Sheets spreadsheets:
 
 It should be possible to clone the repository and use pyenv and poetry to recreate the virtual environment, but it might be easier to:
 
-<a target="_blank" href="https://colab.research.google.com/github/bamacgabhann/IEOS_Abstracts/blob/main/IEOS%20abstracts.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/bamacgabhann/IEOS_Abstracts/blob/main/ieos_abstracts.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
