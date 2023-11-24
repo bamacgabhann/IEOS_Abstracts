@@ -7,11 +7,10 @@ If editing Google Sheets spreadsheets:
 
 It should be possible to clone the repository and use pyenv and poetry to recreate the virtual environment, but it might be easier to:
 
-**Open in Colab**
 <a target="_blank" href="https://colab.research.google.com/github/bamacgabhann/IEOS_Abstracts/blob/main/IEOS%20abstracts.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Upload all the font files, the spreadsheets, and the header image to the same Colab folder as the ipynb
+Upload all the font files, the spreadsheets, and the header image to the same Colab folder as the ipynb.
 
-Then simply run all cells
+Then simply run all cells, and download the produced PDF.
